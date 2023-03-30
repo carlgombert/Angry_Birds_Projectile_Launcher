@@ -1,4 +1,4 @@
-# angry-birds-projectile-launcher
+# angry birds projectile launcher
 ## details  
 Created by: [carlgombert](https://github.com/carlgombert)   
 Uses Java and the Java Swing Framework.  
